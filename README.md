@@ -1,7 +1,7 @@
 # WaitGroupContext package
 This package adds `WaitGroupContext` similar to `sync.WaitGroup` but allows to pass `context.Context` to cancel from `Wait()` method early. 
 ```sh
-go get github.com/PauliusLozys/waitcroupcontext
+go get github.com/PauliusLozys/waitgroupcontext
 ```
 
 Usage
